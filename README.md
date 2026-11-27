@@ -1,6 +1,6 @@
-<img src="assets/header.svg" width="100%" alt="Fasika Getachew, Enterprise Engineer"/>
+<img src="header.svg" width="100%" alt="Fasika Getachew, Enterprise Engineer"/>
 
-<img src="assets/terminal.svg" width="100%" alt="whoami"/>
+<img src="terminal.svg" width="100%" alt="whoami"/>
 
 <p align="center">
   <a href="mailto:fasikag95@gmail.com">fasikag95@gmail.com</a> &nbsp;/&nbsp;
@@ -8,7 +8,7 @@
   Addis Ababa, Ethiopia
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## About
 
@@ -16,7 +16,7 @@ I design and propose enterprise IT, network and security solutions for client RF
 Alongside that, I do hands-on technical implementation: web and business systems that teams actually use.
 I'm always learning, and I like turning real business needs into things that work.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Professional work
 
@@ -33,9 +33,9 @@ I'm always learning, and I like turning real business needs into things that wor
 - **Pre-sales support:** technical documentation, walkthroughs and client presentations
 - **Technical implementation:** hands-on configuration and delivery support for network, security and hardware solutions
 
-<img src="assets/vendors.svg" width="100%" alt="Cisco, Dell, Lenovo, HPE, Check Point, Huawei, Sangfor, Nutanix, Fortinet"/>
+<img src="vendors.svg" width="100%" alt="Cisco, Dell, Lenovo, HPE, Check Point, Huawei, Sangfor, Nutanix, Fortinet"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Software projects
 
@@ -49,9 +49,9 @@ Most of my work is for companies, so the code is private. Here is what I've deli
 | **WizNet Website** | Business website for WizNet | `React` `Express` |
 | **[Smart Plant Watering System](https://github.com/fikogit/Smart-plant-watering-system)** | Graduation project: automated watering from soil-moisture, temperature and light sensors | IoT, sensors |
 
-<img src="assets/stack.svg" width="100%" alt="Python, React, Vite, PostgreSQL, Docker, Next.js, NestJS, Express, JavaScript, TypeScript, Git"/>
+<img src="stack.svg" width="100%" alt="Python, React, Vite, PostgreSQL, Docker, Next.js, NestJS, Express, JavaScript, TypeScript, Git"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Certifications
 
@@ -64,7 +64,7 @@ Most of my work is for companies, so the code is private. Here is what I've deli
 
 **Education:** B.Sc. in Electrical and Computer Engineering (Communication Stream), Samara University, 2019 to 2023.
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## GitHub activity
 
@@ -73,7 +73,7 @@ Most of my work is for companies, so the code is private. Here is what I've deli
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikogit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## Contact
 
