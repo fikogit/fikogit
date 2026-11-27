@@ -1,14 +1,18 @@
-<img src="header.svg" width="100%" alt="Fasika Getachew, Enterprise Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A1024,55:2B3C7A,100:FFB43A&text=Fasika%20Getachew&fontSize=58&fontColor=EAEEF9&fontAlignY=38&desc=Enterprise%20Engineer&descSize=22&descAlignY=58&descColor=EAEEF9&animation=fadeIn" width="100%" alt="Fasika Getachew, Enterprise Engineer"/>
 
-<img src="terminal.svg" width="100%" alt="whoami"/>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:fasikag95@gmail.com">fasikag95@gmail.com</a> &nbsp;/&nbsp;
-  <a href="https://www.upwork.com/freelancers/~011183a241a00a7c99">Upwork</a> &nbsp;/&nbsp;
-  Addis Ababa, Ethiopia
-</p>
+<a href="https://github.com/fikogit/fikogit"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1100&color=FFB43A&center=true&vCenter=true&width=760&height=44&lines=Designing+enterprise+IT%2C+network+and+security+solutions;Turning+client+RFPs+into+winning+proposals;Building+web+and+business+systems+teams+actually+use;Open+to+roles+that+blend+design+with+delivery" alt="Typing animation"/></a>
 
-<img src="divider.svg" width="100%" alt=""/>
+<br/>
+
+<a href="mailto:fasikag95@gmail.com"><img src="https://img.shields.io/badge/Email-fasikag95%40gmail.com-8FA4FF?style=for-the-badge&logo=gmail&logoColor=0A1024&labelColor=111A38" alt="Email"/></a>
+<a href="https://www.upwork.com/freelancers/~011183a241a00a7c99"><img src="https://img.shields.io/badge/Upwork-Hire%20me-FFB43A?style=for-the-badge&logo=upwork&logoColor=0A1024&labelColor=111A38" alt="Upwork"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Addis%20Ababa%2C%20Ethiopia-233059?style=for-the-badge&labelColor=111A38" alt="Addis Ababa, Ethiopia"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A1024,50:FFB43A,100:0A1024" width="100%" alt=""/>
 
 ## About
 
@@ -16,7 +20,7 @@ I design and propose enterprise IT, network and security solutions for client RF
 Alongside that, I do hands-on technical implementation: web and business systems that teams actually use.
 I'm always learning, and I like turning real business needs into things that work.
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A1024,50:FFB43A,100:0A1024" width="100%" alt=""/>
 
 ## Professional work
 
@@ -26,16 +30,34 @@ I'm always learning, and I like turning real business needs into things that wor
 | **Network and Security Pre-Sales Engineer** | Jan 2025 to May 2025 |
 | **Pre-Sales Engineer** | Jun 2024 to Jan 2025 |
 
-- **Solution proposals:** enterprise IT, network and security proposals for client RFPs
-- **Bill of Materials:** configuring solutions and generating BOMs for infrastructure projects
-- **Solution design:** tailoring each proposal to the client's requirements
-- **Vendor engagement:** deal registration and partner management
-- **Pre-sales support:** technical documentation, walkthroughs and client presentations
-- **Technical implementation:** hands-on configuration and delivery support for network, security and hardware solutions
+<table>
+<tr>
+<td width="50%" valign="top"><b>Solution proposals</b><br/>Enterprise IT, network and security proposals for client RFPs.</td>
+<td width="50%" valign="top"><b>Bill of Materials</b><br/>Configuring solutions and generating BOMs for infrastructure projects.</td>
+</tr>
+<tr>
+<td valign="top"><b>Solution design</b><br/>Tailoring each proposal to the client's requirements.</td>
+<td valign="top"><b>Vendor engagement</b><br/>Deal registration and partner management.</td>
+</tr>
+<tr>
+<td valign="top"><b>Pre-sales support</b><br/>Technical documentation, walkthroughs and client presentations.</td>
+<td valign="top"><b>Technical implementation</b><br/>Hands-on configuration and delivery support for network, security and hardware solutions.</td>
+</tr>
+</table>
 
-<img src="vendors.svg" width="100%" alt="Cisco, Dell, Lenovo, HPE, Check Point, Huawei, Sangfor, Nutanix, Fortinet"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-111A38?style=flat-square&logo=cisco&logoColor=8FA4FF" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Dell-111A38?style=flat-square&logo=dell&logoColor=8FA4FF" alt="Dell"/>
+  <img src="https://img.shields.io/badge/Lenovo-111A38?style=flat-square&logo=lenovo&logoColor=8FA4FF" alt="Lenovo"/>
+  <img src="https://img.shields.io/badge/HPE-111A38?style=flat-square&logo=hewlettpackardenterprise&logoColor=8FA4FF" alt="HPE"/>
+  <img src="https://img.shields.io/badge/Check%20Point-111A38?style=flat-square&logoColor=8FA4FF" alt="Check Point"/>
+  <img src="https://img.shields.io/badge/Huawei-111A38?style=flat-square&logo=huawei&logoColor=8FA4FF" alt="Huawei"/>
+  <img src="https://img.shields.io/badge/Sangfor-111A38?style=flat-square&logoColor=8FA4FF" alt="Sangfor"/>
+  <img src="https://img.shields.io/badge/Nutanix-111A38?style=flat-square&logo=nutanix&logoColor=8FA4FF" alt="Nutanix"/>
+  <img src="https://img.shields.io/badge/Fortinet-111A38?style=flat-square&logo=fortinet&logoColor=8FA4FF" alt="Fortinet"/>
+</p>
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A1024,50:FFB43A,100:0A1024" width="100%" alt=""/>
 
 ## Software projects
 
@@ -58,22 +80,30 @@ Most of my work is for companies, so some of it is private. Here is what I've de
 
 Also: **Corporate Website** (not publicly hosted) built with `Next.js` `React` `NestJS` `PostgreSQL`, and my graduation project, a **Smart Plant Watering System** that automates watering from soil-moisture, temperature and light sensors ([repo](https://github.com/fikogit/Smart-plant-watering-system)).
 
-<img src="stack.svg" width="100%" alt="Python, React, Vite, PostgreSQL, Docker, Next.js, NestJS, Express, JavaScript, TypeScript, Git"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,vite,postgres,docker,nextjs,nestjs,express,js,ts,git&theme=dark" alt="Python, React, Vite, PostgreSQL, Docker, Next.js, NestJS, Express, JavaScript, TypeScript, Git"/>
+</p>
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A1024,50:FFB43A,100:0A1024" width="100%" alt=""/>
 
 ## Certifications
 
-- **Sangfor** Certified Solution Architect, Cloud (SCSA)
-- **Cisco** Certified Network Associate (CCNA)
-- **Nutanix** Certified Professional, Multicloud Infrastructure v6
-- **Fortinet** FortiGate 7.4 Administrator
-- **Check Point** Harmony SaaS Technical Specialist and Harmony SASE Sales Specialist
-- **Lenovo** Infrastructure Professional Services and Support Services sales certifications, ISG ThinkSystem DM and DG Implementation Workshop
+<table>
+<tr>
+<td width="33%" valign="top"><b>Sangfor</b><br/>Certified Solution Architect, Cloud (SCSA)</td>
+<td width="33%" valign="top"><b>Cisco</b><br/>Certified Network Associate (CCNA)</td>
+<td width="33%" valign="top"><b>Nutanix</b><br/>Certified Professional, Multicloud Infrastructure v6</td>
+</tr>
+<tr>
+<td valign="top"><b>Fortinet</b><br/>FortiGate 7.4 Administrator</td>
+<td valign="top"><b>Check Point</b><br/>Harmony SaaS Technical Specialist and Harmony SASE Sales Specialist</td>
+<td valign="top"><b>Lenovo</b><br/>Infrastructure Professional Services and Support Services sales certifications, ISG ThinkSystem DM and DG Implementation Workshop</td>
+</tr>
+</table>
 
 **Education:** B.Sc. in Electrical and Computer Engineering (Communication Stream), Samara University, 2019 to 2023.
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A1024,50:FFB43A,100:0A1024" width="100%" alt=""/>
 
 ## GitHub activity
 
@@ -82,9 +112,15 @@ Also: **Corporate Website** (not publicly hosted) built with `Next.js` `React` `
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikogit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
-<img src="divider.svg" width="100%" alt=""/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fikogit&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fikogit&theme=tokyo-night&hide_border=true&area=true&color=8FA4FF&line=FFB43A&point=EAEEF9" width="100%" alt="Contribution activity graph"/>
 
 ## Contact
 
 Open to roles that combine solution design with hands-on technical implementation.
-Reach me at **fasikag95@gmail.com**.
+Reach me at **[fasikag95@gmail.com](mailto:fasikag95@gmail.com)**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:FFB43A,50:2B3C7A,100:0A1024&animation=fadeIn" width="100%" alt=""/>
