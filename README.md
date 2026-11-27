@@ -39,15 +39,24 @@ I'm always learning, and I like turning real business needs into things that wor
 
 ## Software projects
 
-Most of my work is for companies, so the code is private. Here is what I've delivered.
+Most of my work is for companies, so some of it is private. Here is what I've delivered.
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Enterprise Management System** | One platform for accounts, opportunities, bids and tenders, vendors, schedules and team performance, with a live dashboard and deadline and bond-expiry alerts | `Python` `React` `Vite` `PostgreSQL` `Docker` |
-| **Corporate Website** (not publicly hosted) | Fast, responsive company website for phones and desktops | `Next.js` `React` `NestJS` `PostgreSQL` |
-| **[Axiome Enterprise Solution](https://axiomenterprisesolution.com/)** | Responsive website with service pages and a working contact form | `React` |
-| **WizNet Website** | Business website for WizNet | `React` `Express` |
-| **[Smart Plant Watering System](https://github.com/fikogit/Smart-plant-watering-system)** | Graduation project: automated watering from soil-moisture, temperature and light sensors | IoT, sensors |
+<table>
+<tr>
+<td width="48%"><a href="https://axiomenterprisesolution.com/"><img src="axiome.png" alt="Axiome Enterprise Solution website"/></a></td>
+<td valign="top"><b>Axiome Enterprise Solution</b><br/>Responsive company website with service pages and a working contact form.<br/><br/><code>React</code><br/><br/><a href="https://axiomenterprisesolution.com/">Visit the website</a></td>
+</tr>
+<tr>
+<td width="48%"><a href="https://wiznetplc.com/"><img src="wiznet.png" alt="WizNet Engineering website"/></a></td>
+<td valign="top"><b>WizNet Engineering</b><br/>Business website presenting the company's services and portfolio.<br/><br/><code>React</code> <code>Express</code><br/><br/><a href="https://wiznetplc.com/">Visit the website</a></td>
+</tr>
+<tr>
+<td width="48%"><img src="ems.png" alt="Enterprise Management System sign-in"/></td>
+<td valign="top"><b>Enterprise Management System</b><br/>One platform for accounts, opportunities, bids and tenders, vendors, schedules and team performance, with a live dashboard and deadline and bond-expiry alerts. Internal use only, so only the sign-in screen is shown.<br/><br/><code>Python</code> <code>React</code> <code>Vite</code> <code>PostgreSQL</code> <code>Docker</code></td>
+</tr>
+</table>
+
+Also: **Corporate Website** (not publicly hosted) built with `Next.js` `React` `NestJS` `PostgreSQL`, and my graduation project, a **Smart Plant Watering System** that automates watering from soil-moisture, temperature and light sensors ([repo](https://github.com/fikogit/Smart-plant-watering-system)).
 
 <img src="stack.svg" width="100%" alt="Python, React, Vite, PostgreSQL, Docker, Next.js, NestJS, Express, JavaScript, TypeScript, Git"/>
 
