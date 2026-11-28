@@ -51,13 +51,6 @@ Also: **Corporate Website** (not publicly hosted) built with `Next.js` `React` `
 
 **Education:** B.Sc. in Electrical and Computer Engineering (Communication Stream), Samara University, 2019 to 2023.
 
-<img src="h-activity.svg" width="100%" alt="GitHub activity"/>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fikogit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikogit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
 <img src="h-contact.svg" width="100%" alt="Contact"/>
 
 <a href="mailto:fasikag95@gmail.com"><img src="contact.svg" width="100%" alt="Open to roles that combine solution design with hands-on technical implementation. Reach me at fasikag95@gmail.com."/></a>
